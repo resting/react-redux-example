@@ -1,4 +1,7 @@
 # Simple react redux example
+![demo](https://github.com/resting/react-redux-example/raw/master/public/demo.gif)
+
+`npm install` then  
 `npm start` should open browser to `localhost:3000`.  
 Paste some text into the textarea, then press the <kbd>Count</kbd> button.  
 Lower left displays the state captured.  
