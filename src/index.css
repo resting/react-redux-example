@@ -3,3 +3,18 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.flex {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+}
+
+.fcol {
+  flex: 1;
+}
+
+textarea {
+  width: 44em;
+  height: 12.5em;
+}
