@@ -1,3 +1,9 @@
+# Simple react redux example
+`npm start` should open browser to `localhost:3000`.  
+Paste some text into the textarea, then press the <kbd>Count</kbd> button.  
+Lower left displays the state captured.  
+Lower right shows the number character count.
+
 Step 1: Create react App
 ---
 see https://github.com/facebookincubator/create-react-app
