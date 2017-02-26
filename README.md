@@ -1,3 +1,12 @@
+# Read for deploy branch
+
+For hosting on Github page:
+see https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
+
+1. Edit `package.json`.
+2. `npm i -D gh-pages`.
+
+
 # Simple react redux example
 ![demo](https://github.com/resting/react-redux-example/raw/master/public/demo.gif)
 
